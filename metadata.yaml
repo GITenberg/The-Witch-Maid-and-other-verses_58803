@@ -1,11 +1,16 @@
 _repo: The-Witch-Maid-and-other-verses_58803
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 58803-h/images/cover_lg.jpg
 creator:
   author:
     agent_name: Mackellar, Dorothea
     gutenberg_agent_id: '50159'
     url: http://www.gutenberg.org/2009/agents/50159
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58803#The-Witch-Maid-and-other-verses
 gutenberg_issued: '2019-02-01'
 gutenberg_type: Text
 identifiers:
